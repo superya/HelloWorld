@@ -9,6 +9,6 @@ add from version2.0 - iMac
 
 add from version1.0 - iMac
 
-add from Version1.0 from5 MacPro
+add from Version1.0 from8 MacPro
 
 add from Version1.0MacPro 2
